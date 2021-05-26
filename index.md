@@ -13,7 +13,7 @@ Currently, fundus photo has been widely used in diagnosis of glaucoma and retina
 2. macular fovea localization
 3. optic disc and cup segmentation   
 Entry of [MICCAI2021-OMIA8-GAMMA](https://gamma.grand-challenge.org/Home/)  
-Entry of AISTUDIO-GAMMA (TBD)  
+Entry of [AISTUDIO-GAMMA](https://aistudio.baidu.com/aistudio/competition/detail/90) 
 
 
 ### Retinal Fundus Glaucoma  Challenge  Edition2 (REFUGE2)  
